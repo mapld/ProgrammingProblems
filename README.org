@@ -1,0 +1,2 @@
+For CSC483A, Competitive Programming, we did a contest every week and tried to solve as many problems as possible. 
+This contains solutions to problems found in that class and problems from elsewhere.
